@@ -1,0 +1,10 @@
+- name: Config254
+  num_nvd_faces: 2
+  blue:
+    label_M: "0n"
+    label_U: "0f"
+    label_L: ["0f", "0f"]
+  red:
+    label_M: "0f"
+    label_U: "0n"
+    label_L: ["0n", "0n"]

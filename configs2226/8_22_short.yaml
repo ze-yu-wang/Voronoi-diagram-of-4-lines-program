@@ -1,0 +1,11579 @@
+- name: Config313
+  num_nvd_faces: 3
+  blue:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - '3'
+    - 2f
+  red:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - 2f
+    - '3'
+
+- name: Config141_1
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '3'
+  red:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 4f
+
+- name: Config141_2=Config142_1
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '1'
+    - '5'
+  red:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 4f
+
+- name: Config141_3=Config142_2=Config142_9
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '1'
+    - '5'
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+
+- name: Config141_4=Config142_3=Config142_17
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '1'
+    - '5'
+  red:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - '1'
+    - 2f
+
+- name: Config141_5=Config142_6=Config142_41
+  num_nvd_faces: 2
+  blue:
+    label_M: 4f
+    label_U: 0f
+    label_L:
+    - '1'
+    - '3'
+  red:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - '3'
+    - 2f
+
+- name: Config141_6=Config142_7=Config142_49
+  num_nvd_faces: 2
+  blue:
+    label_M: 4f
+    label_U: 0f
+    label_L:
+    - '1'
+    - '3'
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+
+# - name: Config142_1
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 4f
+#     - '1'
+
+# - name: Config142_2
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config142_3
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+- name: Config142_4=Config142_25
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '3'
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+
+- name: Config142_5=Config142_33
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '3'
+  red:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+
+# - name: Config142_6
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config142_7
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+- name: Config142_8=Config142_57
+  num_nvd_faces: 2
+  blue:
+    label_M: 4f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '1'
+  red:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+
+# - name: Config142_9
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+- name: Config142_10=Config142_28
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '5'
+    - '1'
+  red:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config142_11=Config142_18=Config142_29=Config142_36
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '5'
+    - '1'
+  red:
+    label_M: 4f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config142_12=Config142_26
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '3'
+  red:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config142_13=Config142_20=Config142_27=Config142_34
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '3'
+  red:
+    label_M: 4f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config142_14=Config142_30=Config142_42=Config142_44
+  num_nvd_faces: 2
+  blue:
+    label_M: 4f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '1'
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+
+- name: Config142_15=Config142_31=Config142_50=Config142_52
+  num_nvd_faces: 2
+  blue:
+    label_M: 4f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '1'
+  red:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config142_16=Config142_23=Config142_32=Config142_39=Config142_51=Config142_53=Config142_58=Config142_60
+  num_nvd_faces: 2
+  blue:
+    label_M: 4f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '1'
+  red:
+    label_M: 4f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config142_17
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config142_18
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config142_19=Config142_37
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '5'
+    - '1'
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config142_20
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config142_21=Config142_35
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '3'
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config142_22=Config142_38=Config142_43=Config142_45
+  num_nvd_faces: 2
+  blue:
+    label_M: 4f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '1'
+  red:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+
+# - name: Config142_23
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config142_24=Config142_40=Config142_59=Config142_61
+  num_nvd_faces: 2
+  blue:
+    label_M: 4f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '1'
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config142_25
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config142_26
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_27
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_28
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '5'
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_29
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '5'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_30
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config142_31
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_32
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_33
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config142_34
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_35
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_36
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '5'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_37
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '5'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_38
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config142_39
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_40
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_41
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config142_42
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config142_43
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config142_44
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config142_45
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+- name: Config142_46
+  num_nvd_faces: 2
+  blue:
+    label_M: 6f
+    label_U: 0f
+    label_L:
+    - '1'
+    - '1'
+  red:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '5'
+
+- name: Config142_47=Config142_54
+  num_nvd_faces: 2
+  blue:
+    label_M: 6f
+    label_U: 0f
+    label_L:
+    - '1'
+    - '1'
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+
+- name: Config142_48=Config142_62
+  num_nvd_faces: 2
+  blue:
+    label_M: 6f
+    label_U: 0f
+    label_L:
+    - '1'
+    - '1'
+  red:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+
+# - name: Config142_49
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config142_50
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_51
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_52
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_53
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_54
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 6f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+- name: Config142_55
+  num_nvd_faces: 2
+  blue:
+    label_M: 6f
+    label_U: 0f
+    label_L:
+    - '1'
+    - '1'
+  red:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config142_56=Config142_63
+  num_nvd_faces: 2
+  blue:
+    label_M: 6f
+    label_U: 0f
+    label_L:
+    - '1'
+    - '1'
+  red:
+    label_M: 4f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config142_57
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config142_58
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_59
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_60
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_61
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config142_62
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 6f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config142_63
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 6f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config142_64
+  num_nvd_faces: 2
+  blue:
+    label_M: 6f
+    label_U: 0f
+    label_L:
+    - '1'
+    - '1'
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config143_1=Config143_6=Config143_11=Config143_16
+  num_nvd_faces: 1
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '5'
+    - '1'
+  red:
+    label_M: 6f
+    label_U: 0f
+    label_L:
+    - '1'
+    - '1'
+
+- name: Config143_2=Config143_5=Config143_12=Config143_15
+  num_nvd_faces: 1
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '3'
+  red:
+    label_M: 6f
+    label_U: 0f
+    label_L:
+    - '1'
+    - '1'
+
+- name: Config143_3=Config143_4=Config143_7=Config143_8=Config143_9=Config143_10=Config143_13=Config143_14
+  num_nvd_faces: 1
+  blue:
+    label_M: 4f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '1'
+  red:
+    label_M: 4f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '1'
+
+# - name: Config143_4
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+
+# - name: Config143_5
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 6f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '1'
+
+# - name: Config143_6
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '5'
+#   red:
+#     label_M: 6f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '1'
+
+# - name: Config143_7
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+
+# - name: Config143_8
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+
+# - name: Config143_9
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+
+# - name: Config143_10
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+
+# - name: Config143_11
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+
+# - name: Config143_12
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+
+# - name: Config143_13
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+
+# - name: Config143_14
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+
+# - name: Config143_15
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+
+# - name: Config143_16
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '5'
+
+- name: Config151_1=Config152_10
+  num_nvd_faces: 2
+  blue:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 6f
+    - 0f
+  red:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 0f
+
+- name: Config151_2=Config151_8=Config152_11=Config152_18
+  num_nvd_faces: 2
+  blue:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 6f
+    - 0f
+  red:
+    label_M: 4f
+    label_U: '3'
+    label_L:
+    - '1'
+    - 0f
+
+- name: Config151_3=Config151_15=Config152_2=Config152_9
+  num_nvd_faces: 2
+  blue:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 6f
+    - 0f
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - '3'
+    - 0f
+
+- name: Config151_4=Config151_22=Config152_4=Config152_25
+  num_nvd_faces: 2
+  blue:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 2f
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - '3'
+    - 0f
+
+- name: Config151_5=Config151_29=Config152_14=Config152_42
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 0f
+  red:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 0f
+
+- name: Config151_6=Config151_12=Config151_30=Config151_36=Config152_15=Config152_22=Config152_43=Config152_50
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 0f
+  red:
+    label_M: 4f
+    label_U: '3'
+    label_L:
+    - '1'
+    - 0f
+
+- name: Config151_7=Config151_43=Config152_16=Config152_58
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 0f
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+
+# - name: Config151_8
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - '1'
+#     - 0f
+
+- name: Config151_9=Config152_19
+  num_nvd_faces: 2
+  blue:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 6f
+    - 0f
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - '1'
+    - 0f
+
+- name: Config151_10=Config151_16=Config152_3=Config152_17
+  num_nvd_faces: 2
+  blue:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 6f
+    - 0f
+  red:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - '3'
+    - 0f
+
+- name: Config151_11=Config151_23=Config152_5=Config152_33
+  num_nvd_faces: 2
+  blue:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 2f
+  red:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - '3'
+    - 0f
+
+# - name: Config151_12
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - '1'
+#     - 0f
+
+- name: Config151_13=Config151_37=Config152_23=Config152_51
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 0f
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - '1'
+    - 0f
+
+- name: Config151_14=Config151_44=Config152_24=Config152_59
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 0f
+  red:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - '1'
+    - 2f
+
+# - name: Config151_15
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - '3'
+#     - 0f
+
+# - name: Config151_16
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - '3'
+#     - 0f
+
+- name: Config151_17=Config152_1
+  num_nvd_faces: 2
+  blue:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 6f
+    - 0f
+  red:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - '5'
+    - 0f
+
+- name: Config151_18=Config151_24=Config151_25
+  num_nvd_faces: 2
+  blue:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 2f
+  red:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - '5'
+    - 0f
+
+- name: Config151_19=Config151_31=Config152_6=Config152_41
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 0f
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - '3'
+    - 0f
+
+- name: Config151_20=Config151_38=Config152_7=Config152_49
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 0f
+  red:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - '3'
+    - 0f
+
+- name: Config151_21=Config151_45=Config152_8=Config152_57
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 0f
+  red:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - '3'
+    - 2f
+
+# - name: Config151_22
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - '3'
+#     - 0f
+
+# - name: Config151_23
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - '3'
+#     - 0f
+
+# - name: Config151_24
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - '5'
+#     - 0f
+
+# - name: Config151_25
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - '5'
+#     - 0f
+
+- name: Config151_26=Config151_32
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 2f
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - '3'
+    - 0f
+
+- name: Config151_27=Config151_39
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 2f
+  red:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - '3'
+    - 0f
+
+- name: Config151_28=Config151_46
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 2f
+  red:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - '3'
+    - 2f
+
+# - name: Config151_29
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - '1'
+#     - 0f
+
+# - name: Config151_30
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - '1'
+#     - 0f
+
+# - name: Config151_31
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - '3'
+#     - 0f
+
+# - name: Config151_32
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - '3'
+#     - 0f
+
+- name: Config151_33=Config152_46
+  num_nvd_faces: 2
+  blue:
+    label_M: 6n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 0f
+  red:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 0f
+
+- name: Config151_34=Config151_40=Config152_47=Config152_54
+  num_nvd_faces: 2
+  blue:
+    label_M: 6n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 0f
+  red:
+    label_M: 4f
+    label_U: '3'
+    label_L:
+    - '1'
+    - 0f
+
+- name: Config151_35=Config151_47=Config152_48=Config152_62
+  num_nvd_faces: 2
+  blue:
+    label_M: 6n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 0f
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+
+# - name: Config151_36
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - '1'
+#     - 0f
+
+# - name: Config151_37
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - '1'
+#     - 0f
+
+# - name: Config151_38
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - '3'
+#     - 0f
+
+# - name: Config151_39
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - '3'
+#     - 0f
+
+# - name: Config151_40
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - '1'
+#     - 0f
+
+- name: Config151_41=Config152_55
+  num_nvd_faces: 2
+  blue:
+    label_M: 6n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 0f
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - '1'
+    - 0f
+
+- name: Config151_42=Config151_48=Config152_56=Config152_63
+  num_nvd_faces: 2
+  blue:
+    label_M: 6n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 0f
+  red:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - '1'
+    - 2f
+
+# - name: Config151_43
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - '1'
+#     - 2f
+
+# - name: Config151_44
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - '1'
+#     - 2f
+
+# - name: Config151_45
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - '3'
+#     - 2f
+
+# - name: Config151_46
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - '3'
+#     - 2f
+
+# - name: Config151_47
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - '1'
+#     - 2f
+
+# - name: Config151_48
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - '1'
+#     - 2f
+
+- name: Config151_49=Config152_64
+  num_nvd_faces: 2
+  blue:
+    label_M: 6n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 0f
+  red:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 4f
+
+# - name: Config152_1
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '5'
+
+# - name: Config152_2
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config152_3
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config152_4
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config152_5
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config152_6
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config152_7
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config152_8
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config152_9
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config152_10
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_11
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config152_12=Config152_26=Config152_28
+  num_nvd_faces: 2
+  blue:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 2f
+  red:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config152_13=Config152_20=Config152_27=Config152_29=Config152_34=Config152_36
+  num_nvd_faces: 2
+  blue:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 2f
+  red:
+    label_M: 4f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config152_14
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_15
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_16
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config152_17
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config152_18
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_19
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_20
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config152_21=Config152_35=Config152_37
+  num_nvd_faces: 2
+  blue:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 2f
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config152_22
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_23
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_24
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config152_25
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config152_26
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_27
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_28
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_29
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config152_30=Config152_44
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 2f
+  red:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config152_31=Config152_38=Config152_45=Config152_52
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 2f
+  red:
+    label_M: 4f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config152_32=Config152_60
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 2f
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+
+# - name: Config152_33
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config152_34
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_35
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_36
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_37
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_38
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config152_39=Config152_53
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 2f
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config152_40=Config152_61
+  num_nvd_faces: 2
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 2f
+  red:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+
+# - name: Config152_41
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config152_42
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_43
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_44
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_45
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_46
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_47
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_48
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config152_49
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config152_50
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_51
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_52
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_53
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_54
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_55
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config152_56
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config152_57
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config152_58
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config152_59
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config152_60
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config152_61
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config152_62
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config152_63
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config152_64
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 4f
+#     - '1'
+
+- name: Config314_1
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - '5'
+    - 2f
+  red:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - 4f
+    - '1'
+
+- name: Config314_2=Config314_7
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - '5'
+    - 2f
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+
+- name: Config314_3=Config314_13
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - '3'
+    - 4f
+  red:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - 2f
+    - '3'
+
+- name: Config314_4=Config314_19
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - '3'
+    - 4f
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+
+- name: Config314_5=Config314_25
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - '3'
+    - 2f
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+
+- name: Config314_6=Config314_31
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - '3'
+    - 2f
+  red:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+
+# - name: Config314_7
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - '5'
+#     - 2f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+- name: Config314_8
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - '5'
+    - 2f
+  red:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config314_9=Config314_14
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - '3'
+    - 4f
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+
+- name: Config314_10=Config314_20
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - '3'
+    - 4f
+  red:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config314_11=Config314_26
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - '3'
+    - 2f
+  red:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config314_12=Config314_32
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - '3'
+    - 2f
+  red:
+    label_M: 4f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config314_13
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - '3'
+#     - 4f
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config314_14
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - '3'
+#     - 4f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+- name: Config314_15
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 6f
+  red:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '5'
+
+- name: Config314_16=Config314_21
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 6f
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+
+- name: Config314_17=Config314_27
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 4f
+  red:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+
+- name: Config314_18=Config314_33
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - '1'
+    - 4f
+  red:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+
+# - name: Config314_19
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - '3'
+#     - 4f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config314_20
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - '3'
+#     - 4f
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config314_21
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - '1'
+#     - 6f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+- name: Config314_22
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 6f
+  red:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config314_23=Config314_28
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 4f
+  red:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config314_24=Config314_34
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - '1'
+    - 4f
+  red:
+    label_M: 4f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config314_25
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - '3'
+#     - 2f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config314_26
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - '3'
+#     - 2f
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config314_27
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - '1'
+#     - 4f
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config314_28
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - '1'
+#     - 4f
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config314_29
+  num_nvd_faces: 2
+  blue:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+  red:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config314_30=Config314_35
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - '1'
+    - 2f
+  red:
+    label_M: 4f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config314_31
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - '3'
+#     - 2f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config314_32
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - '3'
+#     - 2f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config314_33
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - '1'
+#     - 4f
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config314_34
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - '1'
+#     - 4f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config314_35
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - '1'
+#     - 2f
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config314_36
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '5'
+    label_L:
+    - '1'
+    - 2f
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config144_1
+  num_nvd_faces: 1
+  blue:
+    label_M: 6f
+    label_U: 0f
+    label_L:
+    - '1'
+    - '1'
+  red:
+    label_M: 6n
+    label_U: 0f
+    label_L:
+    - 0f
+    - 2f
+
+- name: Config144_2=Config144_5=Config144_17
+  num_nvd_faces: 1
+  blue:
+    label_M: 4f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '1'
+  red:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 2f
+
+- name: Config144_3=Config144_4=Config144_9=Config144_13=Config144_33=Config144_49
+  num_nvd_faces: 1
+  blue:
+    label_M: 4f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '1'
+  red:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 0f
+    - 4f
+
+# - name: Config144_4
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config144_5
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+- name: Config144_6=Config144_7=Config144_10=Config144_18=Config144_19=Config144_21=Config144_25=Config144_34=Config144_37
+  num_nvd_faces: 1
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '5'
+    - '1'
+  red:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 2f
+
+# - name: Config144_7
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+- name: Config144_8=Config144_14=Config144_20=Config144_29=Config144_50=Config144_53
+  num_nvd_faces: 1
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '3'
+  red:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 4f
+
+# - name: Config144_9
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config144_10
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+- name: Config144_11=Config144_16=Config144_35=Config144_41=Config144_52=Config144_61
+  num_nvd_faces: 1
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '5'
+    - '1'
+  red:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 0f
+    - 6f
+
+- name: Config144_12=Config144_15=Config144_36=Config144_45=Config144_51=Config144_57
+  num_nvd_faces: 1
+  blue:
+    label_M: 2f
+    label_U: 0f
+    label_L:
+    - '3'
+    - '3'
+  red:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 0f
+    - 6f
+
+# - name: Config144_13
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config144_14
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config144_15
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config144_16
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '5'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config144_17
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config144_18
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config144_19
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config144_20
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config144_21
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+- name: Config144_22=Config144_27=Config144_39=Config144_42
+  num_nvd_faces: 1
+  blue:
+    label_M: 0f
+    label_U: 0f
+    label_L:
+    - '7'
+    - '1'
+  red:
+    label_M: 0n
+    label_U: 0f
+    label_L:
+    - 6f
+    - 2f
+
+- name: Config144_23=Config144_26=Config144_38
+  num_nvd_faces: 1
+  blue:
+    label_M: 0f
+    label_U: 0f
+    label_L:
+    - '7'
+    - '1'
+  red:
+    label_M: 0n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 4f
+
+- name: Config144_24=Config144_30=Config144_54
+  num_nvd_faces: 1
+  blue:
+    label_M: 0f
+    label_U: 0f
+    label_L:
+    - '5'
+    - '3'
+  red:
+    label_M: 0n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 4f
+
+# - name: Config144_25
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config144_26
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '7'
+#     - '1'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 4f
+
+# - name: Config144_27
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '7'
+#     - '1'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+
+- name: Config144_28=Config144_31=Config144_32=Config144_40=Config144_46=Config144_55=Config144_56=Config144_58=Config144_62
+  num_nvd_faces: 1
+  blue:
+    label_M: 0f
+    label_U: 0f
+    label_L:
+    - '5'
+    - '3'
+  red:
+    label_M: 0n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 6f
+
+# - name: Config144_29
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config144_30
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '3'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 4f
+
+# - name: Config144_31
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '3'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+
+# - name: Config144_32
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '5'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+
+# - name: Config144_33
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '1'
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config144_34
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config144_35
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config144_36
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config144_37
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config144_38
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '7'
+#     - '1'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 4f
+
+# - name: Config144_39
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '7'
+#     - '1'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+
+# - name: Config144_40
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '3'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+
+# - name: Config144_41
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '1'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config144_42
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '7'
+#     - '1'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+
+- name: Config144_43=Config144_64
+  num_nvd_faces: 1
+  blue:
+    label_M: 0f
+    label_U: 0f
+    label_L:
+    - '7'
+    - '1'
+  red:
+    label_M: 0n
+    label_U: 0f
+    label_L:
+    - 0f
+    - 8f
+
+- name: Config144_44=Config144_47=Config144_48=Config144_59=Config144_60=Config144_63
+  num_nvd_faces: 1
+  blue:
+    label_M: 0f
+    label_U: 0f
+    label_L:
+    - '5'
+    - '3'
+  red:
+    label_M: 0n
+    label_U: 0f
+    label_L:
+    - 0f
+    - 8f
+
+# - name: Config144_45
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config144_46
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '3'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+
+# - name: Config144_47
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '3'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 8f
+
+# - name: Config144_48
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '5'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 8f
+
+# - name: Config144_49
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '3'
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config144_50
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config144_51
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config144_52
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '5'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config144_53
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config144_54
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '3'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 4f
+
+# - name: Config144_55
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '3'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+
+# - name: Config144_56
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '5'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+
+# - name: Config144_57
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '3'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config144_58
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '3'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+
+# - name: Config144_59
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '5'
+#     - '3'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 8f
+
+# - name: Config144_60
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '5'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 8f
+
+# - name: Config144_61
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '5'
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config144_62
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '5'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+
+# - name: Config144_63
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '3'
+#     - '5'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 8f
+
+# - name: Config144_64
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0f
+#     label_U: 0f
+#     label_L:
+#     - '1'
+#     - '7'
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 8f
+
+- name: Config333_1=Config333_173
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '7'
+  red:
+    label_M: 0f
+    label_U: '7'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config333_2=Config333_7=Config333_37=Config333_137=Config333_167=Config333_172
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - 2f
+    - '5'
+  red:
+    label_M: 0f
+    label_U: '7'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config333_3=Config333_13=Config333_73=Config333_174=Config333_179=Config333_209
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '5'
+  red:
+    label_M: 0f
+    label_U: '7'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config333_4=Config333_19=Config333_65=Config333_109=Config333_155=Config333_170
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '5'
+  red:
+    label_M: 0f
+    label_U: '5'
+    label_L:
+    - 2f
+    - '1'
+
+- name: Config333_5=Config333_25=Config333_29=Config333_145=Config333_149=Config333_169
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '5'
+  red:
+    label_M: 0f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '3'
+
+- name: Config333_6=Config333_31=Config333_101=Config333_161=Config333_171=Config333_181
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '5'
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config333_7
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '5'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config333_8=Config333_38=Config333_43=Config333_131=Config333_136=Config333_166
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - 4f
+    - '3'
+  red:
+    label_M: 0f
+    label_U: '7'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config333_9=Config333_14=Config333_39=Config333_49=Config333_74=Config333_79=Config333_138=Config333_143=Config333_168=Config333_178=Config333_203=Config333_208
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - 2f
+    - '3'
+  red:
+    label_M: 0f
+    label_U: '7'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config333_10=Config333_20=Config333_40=Config333_55=Config333_59=Config333_64=Config333_110=Config333_115=Config333_119=Config333_134=Config333_154=Config333_164
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - 2f
+    - '3'
+  red:
+    label_M: 0f
+    label_U: '5'
+    label_L:
+    - 2f
+    - '1'
+
+- name: Config333_11=Config333_23=Config333_26=Config333_28=Config333_41=Config333_61=Config333_113=Config333_133=Config333_146=Config333_148=Config333_151=Config333_163
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - 2f
+    - '3'
+  red:
+    label_M: 0f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '3'
+
+- name: Config333_12=Config333_32=Config333_42=Config333_67=Config333_95=Config333_100=Config333_125=Config333_135=Config333_160=Config333_165=Config333_182=Config333_187
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - 2f
+    - '3'
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config333_13
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '5'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_14
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config333_15=Config333_75=Config333_85=Config333_180=Config333_210=Config333_215
+  num_nvd_faces: 2
+  blue:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 0f
+    label_U: '7'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config333_16=Config333_21=Config333_66=Config333_71=Config333_76=Config333_91=Config333_111=Config333_121=Config333_156=Config333_176=Config333_191=Config333_206
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 0f
+    label_U: '5'
+    label_L:
+    - 2f
+    - '1'
+
+- name: Config333_17=Config333_27=Config333_30=Config333_35=Config333_77=Config333_97=Config333_147=Config333_150=Config333_157=Config333_175=Config333_185=Config333_205
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 0f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '3'
+
+- name: Config333_18=Config333_33=Config333_78=Config333_102=Config333_103=Config333_107=Config333_162=Config333_177=Config333_183=Config333_193=Config333_197=Config333_207
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config333_19
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '5'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_20
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_21
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+- name: Config333_22=Config333_47=Config333_62=Config333_112=Config333_127=Config333_152
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - 4f
+    - '1'
+
+# - name: Config333_23
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+- name: Config333_24=Config333_34=Config333_53=Config333_63=Config333_83=Config333_98=Config333_114=Config333_139=Config333_153=Config333_158=Config333_184=Config333_199
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+
+# - name: Config333_25
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '5'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_26
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_27
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_28
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_29
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '5'
+
+# - name: Config333_30
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_31
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '5'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_32
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_33
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_34
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_35
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+- name: Config333_36=Config333_89=Config333_99=Config333_159=Config333_186=Config333_211
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 4f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config333_37
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '5'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_38
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - 4f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_39
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_40
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_41
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_42
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_43
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - 4f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config333_44=Config333_130
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - 6f
+    - '1'
+  red:
+    label_M: 0f
+    label_U: '7'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config333_45=Config333_50=Config333_80=Config333_132=Config333_142=Config333_202
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - 4f
+    - '1'
+  red:
+    label_M: 0f
+    label_U: '7'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config333_46=Config333_56=Config333_58=Config333_116=Config333_118=Config333_128
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - 4f
+    - '1'
+  red:
+    label_M: 0f
+    label_U: '5'
+    label_L:
+    - 2f
+    - '1'
+
+# - name: Config333_47
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 4f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+- name: Config333_48=Config333_68=Config333_94=Config333_124=Config333_129=Config333_188
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - 4f
+    - '1'
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config333_49
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_50
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 4f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config333_51=Config333_81=Config333_86=Config333_144=Config333_204=Config333_214
+  num_nvd_faces: 2
+  blue:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 0f
+    label_U: '7'
+    label_L:
+    - 0f
+    - '1'
+
+- name: Config333_52=Config333_57=Config333_60=Config333_70=Config333_82=Config333_92=Config333_117=Config333_120=Config333_122=Config333_140=Config333_190=Config333_200
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 0f
+    label_U: '5'
+    label_L:
+    - 2f
+    - '1'
+
+# - name: Config333_53
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+- name: Config333_54=Config333_69=Config333_84=Config333_96=Config333_104=Config333_106=Config333_126=Config333_141=Config333_189=Config333_194=Config333_196=Config333_201
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config333_55
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_56
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 4f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_57
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_58
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 4f
+#     - '1'
+
+# - name: Config333_59
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_60
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_61
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_62
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 4f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_63
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_64
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_65
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '5'
+
+# - name: Config333_66
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_67
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_68
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 4f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_69
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_70
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_71
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+- name: Config333_72=Config333_88=Config333_93=Config333_123=Config333_192=Config333_212
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '5'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 4f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config333_73
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '5'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_74
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_75
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_76
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_77
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_78
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_79
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_80
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 4f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_81
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_82
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_83
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_84
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_85
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_86
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config333_87=Config333_216
+  num_nvd_faces: 2
+  blue:
+    label_M: 6f
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0f
+    label_U: '7'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config333_88
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_89
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+- name: Config333_90=Config333_105=Config333_108=Config333_195=Config333_198=Config333_213
+  num_nvd_faces: 2
+  blue:
+    label_M: 4f
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 2f
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+
+# - name: Config333_91
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_92
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_93
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_94
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 4f
+#     - '1'
+
+# - name: Config333_95
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_96
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_97
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_98
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_99
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_100
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_101
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '5'
+
+# - name: Config333_102
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_103
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_104
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_105
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_106
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_107
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_108
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_109
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '5'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_110
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_111
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_112
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 4f
+#     - '1'
+
+# - name: Config333_113
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_114
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_115
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_116
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 4f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_117
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_118
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 4f
+#     - '1'
+
+# - name: Config333_119
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_120
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_121
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_122
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_123
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_124
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 4f
+#     - '1'
+
+# - name: Config333_125
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_126
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_127
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 4f
+#     - '1'
+
+# - name: Config333_128
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 4f
+#     - '1'
+
+# - name: Config333_129
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 4f
+#     - '1'
+
+# - name: Config333_130
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - 6f
+#     - '1'
+
+# - name: Config333_131
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - 4f
+#     - '3'
+
+# - name: Config333_132
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 4f
+#     - '1'
+
+# - name: Config333_133
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_134
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_135
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_136
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - 4f
+#     - '3'
+
+# - name: Config333_137
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '5'
+
+# - name: Config333_138
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_139
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_140
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_141
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_142
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 4f
+#     - '1'
+
+# - name: Config333_143
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_144
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_145
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '5'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_146
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_147
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_148
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_149
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '5'
+
+# - name: Config333_150
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_151
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_152
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 4f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_153
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_154
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_155
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '5'
+
+# - name: Config333_156
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_157
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_158
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_159
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_160
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_161
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '5'
+
+# - name: Config333_162
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_163
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_164
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_165
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_166
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - 4f
+#     - '3'
+
+# - name: Config333_167
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '5'
+
+# - name: Config333_168
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_169
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '5'
+
+# - name: Config333_170
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '5'
+
+# - name: Config333_171
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '5'
+
+# - name: Config333_172
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '5'
+
+# - name: Config333_173
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 0f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '7'
+
+# - name: Config333_174
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '5'
+
+# - name: Config333_175
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_176
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_177
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_178
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_179
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '5'
+
+# - name: Config333_180
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_181
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '5'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_182
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_183
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_184
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_185
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_186
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_187
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_188
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '3'
+#     label_L:
+#     - 4f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_189
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_190
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_191
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_192
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_193
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_194
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_195
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_196
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_197
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_198
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_199
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_200
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_201
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_202
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 4f
+#     - '1'
+
+# - name: Config333_203
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_204
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_205
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_206
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_207
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_208
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '3'
+
+# - name: Config333_209
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 2f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '5'
+
+# - name: Config333_210
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_211
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '3'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_212
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '5'
+#     label_L:
+#     - 2f
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_213
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 2f
+#     label_U: '5'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '3'
+#     label_L:
+#     - 0f
+#     - '1'
+
+# - name: Config333_214
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 2f
+#     - '1'
+
+# - name: Config333_215
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 4f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '3'
+
+# - name: Config333_216
+#   num_nvd_faces: 2
+#   blue:
+#     label_M: 0f
+#     label_U: '7'
+#     label_L:
+#     - 0f
+#     - '1'
+#   red:
+#     label_M: 6f
+#     label_U: '1'
+#     label_L:
+#     - 0f
+#     - '1'
+
+- name: Config153_1=Config153_86=Config153_171=Config153_256
+  num_nvd_faces: 1
+  blue:
+    label_M: 0n
+    label_U: 0f
+    label_L:
+    - 8f
+    - 0f
+  red:
+    label_M: 8n
+    label_U: 0f
+    label_L:
+    - 0f
+    - 0f
+
+- name: Config153_2=Config153_5=Config153_17=Config153_22=Config153_65=Config153_70=Config153_82=Config153_85=Config153_172=Config153_175=Config153_187=Config153_192=Config153_235=Config153_240=Config153_252=Config153_255
+  num_nvd_faces: 1
+  blue:
+    label_M: 0n
+    label_U: 0f
+    label_L:
+    - 6f
+    - 2f
+  red:
+    label_M: 8n
+    label_U: 0f
+    label_L:
+    - 0f
+    - 0f
+
+- name: Config153_3=Config153_4=Config153_9=Config153_13=Config153_33=Config153_43=Config153_49=Config153_64=Config153_87=Config153_88=Config153_90=Config153_94=Config153_102=Config153_107=Config153_118=Config153_128=Config153_129=Config153_139=Config153_150=Config153_155=Config153_163=Config153_167=Config153_169=Config153_170=Config153_193=Config153_208=Config153_214=Config153_224=Config153_244=Config153_248=Config153_253=Config153_254
+  num_nvd_faces: 1
+  blue:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 6f
+    - 0f
+  red:
+    label_M: 6n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 0f
+
+# - name: Config153_4
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_5
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 2f
+#   red:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+
+- name: Config153_6=Config153_18=Config153_21=Config153_66=Config153_69=Config153_81=Config153_176=Config153_188=Config153_191=Config153_236=Config153_239=Config153_251
+  num_nvd_faces: 1
+  blue:
+    label_M: 0n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 4f
+  red:
+    label_M: 8n
+    label_U: 0f
+    label_L:
+    - 0f
+    - 0f
+
+- name: Config153_7=Config153_8=Config153_10=Config153_14=Config153_19=Config153_20=Config153_23=Config153_24=Config153_25=Config153_26=Config153_29=Config153_30=Config153_34=Config153_37=Config153_38=Config153_44=Config153_47=Config153_48=Config153_50=Config153_53=Config153_54=Config153_59=Config153_60=Config153_63=Config153_67=Config153_68=Config153_71=Config153_72=Config153_73=Config153_74=Config153_77=Config153_78=Config153_83=Config153_84=Config153_89=Config153_93=Config153_97=Config153_98=Config153_101=Config153_108=Config153_111=Config153_112=Config153_113=Config153_114=Config153_117=Config153_123=Config153_124=Config153_127=Config153_130=Config153_133=Config153_134=Config153_140=Config153_143=Config153_144=Config153_145=Config153_146=Config153_149=Config153_156=Config153_159=Config153_160=Config153_164=Config153_168=Config153_173=Config153_174=Config153_179=Config153_180=Config153_183=Config153_184=Config153_185=Config153_186=Config153_189=Config153_190=Config153_194=Config153_197=Config153_198=Config153_203=Config153_204=Config153_207=Config153_209=Config153_210=Config153_213=Config153_219=Config153_220=Config153_223=Config153_227=Config153_228=Config153_231=Config153_232=Config153_233=Config153_234=Config153_237=Config153_238=Config153_243=Config153_247=Config153_249=Config153_250
+  num_nvd_faces: 1
+  blue:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 2f
+  red:
+    label_M: 6n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 0f
+
+# - name: Config153_8
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_9
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_10
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+- name: Config153_11=Config153_16=Config153_35=Config153_41=Config153_52=Config153_61=Config153_91=Config153_96=Config153_103=Config153_106=Config153_120=Config153_126=Config153_131=Config153_137=Config153_151=Config153_154=Config153_161=Config153_166=Config153_196=Config153_205=Config153_216=Config153_222=Config153_241=Config153_246
+  num_nvd_faces: 1
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 0f
+  red:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 0f
+
+- name: Config153_12=Config153_15=Config153_27=Config153_32=Config153_36=Config153_39=Config153_42=Config153_45=Config153_51=Config153_56=Config153_57=Config153_62=Config153_75=Config153_80=Config153_92=Config153_95=Config153_99=Config153_104=Config153_105=Config153_110=Config153_116=Config153_119=Config153_122=Config153_125=Config153_132=Config153_135=Config153_138=Config153_141=Config153_147=Config153_152=Config153_153=Config153_158=Config153_162=Config153_165=Config153_177=Config153_182=Config153_195=Config153_200=Config153_201=Config153_206=Config153_212=Config153_215=Config153_218=Config153_221=Config153_225=Config153_230=Config153_242=Config153_245
+  num_nvd_faces: 1
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 4f
+    - 0f
+  red:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 2f
+
+# - name: Config153_13
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_14
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_15
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_16
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_17
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 2f
+#   red:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+
+# - name: Config153_18
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 4f
+#   red:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+
+# - name: Config153_19
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_20
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_21
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 4f
+#   red:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+
+# - name: Config153_22
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+#   red:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+
+# - name: Config153_23
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_24
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_25
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_26
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_27
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+- name: Config153_28=Config153_31=Config153_40=Config153_46=Config153_55=Config153_58=Config153_76=Config153_79=Config153_100=Config153_109=Config153_115=Config153_121=Config153_136=Config153_142=Config153_148=Config153_157=Config153_178=Config153_181=Config153_199=Config153_202=Config153_211=Config153_217=Config153_226=Config153_229
+  num_nvd_faces: 1
+  blue:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 2f
+  red:
+    label_M: 4n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 2f
+
+# - name: Config153_29
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_30
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_31
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_32
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_33
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_34
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_35
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_36
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_37
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_38
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_39
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_40
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_41
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_42
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_43
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+
+# - name: Config153_44
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_45
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_46
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_47
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_48
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_49
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_50
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_51
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_52
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_53
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_54
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_55
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_56
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_57
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_58
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_59
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_60
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_61
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_62
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_63
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_64
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config153_65
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 2f
+#   red:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+
+# - name: Config153_66
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 4f
+#   red:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+
+# - name: Config153_67
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_68
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_69
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 4f
+#   red:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+
+# - name: Config153_70
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+#   red:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+
+# - name: Config153_71
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_72
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_73
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_74
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_75
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_76
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_77
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_78
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_79
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_80
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_81
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 4f
+#   red:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+
+# - name: Config153_82
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+#   red:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+
+# - name: Config153_83
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_84
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_85
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+#   red:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+
+# - name: Config153_86
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 8f
+#   red:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+
+# - name: Config153_87
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_88
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_89
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_90
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_91
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_92
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_93
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_94
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_95
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_96
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_97
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_98
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_99
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_100
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_101
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_102
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_103
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_104
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_105
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_106
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_107
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+
+# - name: Config153_108
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_109
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_110
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_111
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_112
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_113
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_114
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_115
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_116
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_117
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_118
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_119
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_120
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_121
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_122
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_123
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_124
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_125
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_126
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_127
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_128
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config153_129
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_130
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_131
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_132
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_133
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_134
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_135
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_136
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_137
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_138
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_139
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+
+# - name: Config153_140
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_141
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_142
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_143
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_144
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_145
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_146
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_147
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_148
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_149
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_150
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+
+# - name: Config153_151
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_152
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_153
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_154
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_155
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+
+# - name: Config153_156
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_157
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_158
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_159
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_160
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_161
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_162
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_163
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+
+# - name: Config153_164
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_165
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_166
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+
+# - name: Config153_167
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+
+# - name: Config153_168
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_169
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+
+# - name: Config153_170
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+
+# - name: Config153_171
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 8f
+#     - 0f
+
+# - name: Config153_172
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 2f
+
+# - name: Config153_173
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_174
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_175
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 2f
+
+# - name: Config153_176
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 4f
+
+# - name: Config153_177
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_178
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_179
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_180
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_181
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_182
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_183
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_184
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_185
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_186
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_187
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 2f
+
+# - name: Config153_188
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 4f
+
+# - name: Config153_189
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_190
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_191
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 4f
+
+# - name: Config153_192
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+
+# - name: Config153_193
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 0f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_194
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_195
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_196
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_197
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_198
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_199
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_200
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_201
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_202
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_203
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_204
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_205
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_206
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_207
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_208
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config153_209
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_210
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_211
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_212
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_213
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_214
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+#   red:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+
+# - name: Config153_215
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_216
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_217
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_218
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_219
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_220
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_221
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_222
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_223
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_224
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config153_225
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_226
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_227
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_228
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_229
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_230
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+
+# - name: Config153_231
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_232
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_233
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_234
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 2f
+
+# - name: Config153_235
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 6f
+#     - 2f
+
+# - name: Config153_236
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 4f
+
+# - name: Config153_237
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_238
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_239
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 4f
+
+# - name: Config153_240
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+
+# - name: Config153_241
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 0f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_242
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_243
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_244
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config153_245
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 2f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_246
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+#   red:
+#     label_M: 4n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 4f
+
+# - name: Config153_247
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_248
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config153_249
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_250
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 4f
+
+# - name: Config153_251
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 4f
+#     - 4f
+
+# - name: Config153_252
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+
+# - name: Config153_253
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 0f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config153_254
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 6n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 2f
+#   red:
+#     label_M: 2n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 6f
+
+# - name: Config153_255
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 2f
+#     - 6f
+
+# - name: Config153_256
+#   num_nvd_faces: 1
+#   blue:
+#     label_M: 8n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 0f
+#   red:
+#     label_M: 0n
+#     label_U: 0f
+#     label_L:
+#     - 0f
+#     - 8f

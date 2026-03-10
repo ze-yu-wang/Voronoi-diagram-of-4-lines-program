@@ -1,0 +1,1478 @@
+# 6 V
+
+- name: Config341
+  num_nvd_faces: 3
+  blue:
+    label_M: "2f"
+    label_U: "1"
+    label_L: ["1", "2n"]
+  red:
+    label_M: "2f"
+    label_U: "1"
+    label_L: ["1", "2n"]
+
+- name: Config343
+  num_nvd_faces: 3
+  blue:
+    label_M: "2f"
+    label_U: "1"
+    label_L: ["1", "2n"]
+  red:
+    label_M: "2f"
+    label_U: "1"
+    label_L: ["1", "2n"]
+
+
+
+
+
+
+
+# 4 V + 1 twist
+# add blue L0 and red L1
+- name: Config342_1
+  num_nvd_faces: 3
+  blue:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - 2n
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+# add blue M and red L0
+- name: Config342_2
+  num_nvd_faces: 3
+  blue:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 0n
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 0f
+# add blue M and red M
+- name: Config342_3
+  num_nvd_faces: 3
+  blue:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 0n
+    - '1'
+  red:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 0f
+# add blue U and red L0
+- name: Config342_4
+  num_nvd_faces: 3
+  blue:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 0n
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 0f
+# add blue U and red M
+- name: Config342_5
+  num_nvd_faces: 3
+  blue:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 0n
+    - '1'
+  red:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 0f
+# add blue L1 and red M
+- name: Config342_6
+  num_nvd_faces: 3
+  blue:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - 0n
+    - '3'
+  red:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 0f
+# add blue L1 and red U
+- name: Config342_7
+  num_nvd_faces: 3
+  blue:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - 0n
+    - '3'
+  red:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 0f
+# add blue M and red U
+- name: Config342_8
+  num_nvd_faces: 3
+  blue:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 0n
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 0f
+# add blue L0 and red L1
+- name: Config352_1
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 0f
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+# add blue M and red L0
+- name: Config352_2
+  num_nvd_faces: 3
+  blue:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 0f
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+# add blue M and red M
+- name: Config352_3
+  num_nvd_faces: 3
+  blue:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 0f
+  red:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+# add blue U and red L0
+- name: Config352_4
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 0f
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+# add blue U and red M
+- name: Config352_5
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 0f
+  red:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+# add blue L1 and red M
+- name: Config352_6
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+  red:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+# add blue L1 and red U
+- name: Config352_7
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+  red:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+# add blue M and red U
+- name: Config352_8
+  num_nvd_faces: 3
+  blue:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 0f
+  red:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+
+
+
+
+
+
+# 2 V + 2 twists
+# add blue L1 and red L1 + add blue L1 and red L1
+- name: Config344_1
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - 0n
+    - '5'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '5'
+# add blue L1 and red L1 + add blue L0 and red L0
+- name: Config344_2
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - 2n
+    - '3'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '3'
+# add blue L1 and red L1 + add blue M and red M
+- name: Config344_3
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - 0n
+    - '3'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+# add blue L1 and red L1 + add blue U and red U
+- name: Config344_4
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - 0n
+    - '3'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+# add blue L0 and red L0 + add blue L1 and red L1
+- name: Config344_5
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - 2n
+    - '3'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '3'
+# add blue L0 and red L0 + add blue L0 and red L0
+- name: Config344_6
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '1'
+    label_L:
+    - 4n
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 4f
+    - '1'
+# add blue L0 and red L0 + add blue M and red M
+- name: Config344_7
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - 2n
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+# add blue L0 and red L0 + add blue U and red U
+- name: Config344_8
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - 2n
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+# add blue M and red M + add blue L1 and red L1
+- name: Config344_9
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - 0n
+    - '3'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+# add blue M and red M + add blue L0 and red L0
+- name: Config344_10
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '1'
+    label_L:
+    - 2n
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+# add blue M and red M + add blue M and red M
+- name: Config344_11
+  num_nvd_faces: 2
+  blue:
+    label_M: 4f
+    label_U: '1'
+    label_L:
+    - 0n
+    - '1'
+  red:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+# add blue M and red M + add blue U and red U
+- name: Config344_12
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 0n
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+# add blue U and red U + add blue L1 and red L1
+- name: Config344_13
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - 0n
+    - '3'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+# add blue U and red U + add blue L0 and red L0
+- name: Config344_14
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '3'
+    label_L:
+    - 2n
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+# add blue U and red U + add blue M and red M
+- name: Config344_15
+  num_nvd_faces: 2
+  blue:
+    label_M: 2f
+    label_U: '3'
+    label_L:
+    - 0n
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+# add blue U and red U + add blue U and red U
+- name: Config344_16
+  num_nvd_faces: 2
+  blue:
+    label_M: 0f
+    label_U: '5'
+    label_L:
+    - 0n
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+# add blue L1 and red U + add blue L1 and red U
+- name: Config353_1
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '5'
+  red:
+    label_M: 0n
+    label_U: '5'
+    label_L:
+    - '1'
+    - 0f
+# add blue L1 and red U + add blue L0 and red U
+- name: Config353_2
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '3'
+  red:
+    label_M: 0n
+    label_U: '5'
+    label_L:
+    - '1'
+    - 0f
+# add blue L1 and red U + add blue L1 and red M
+- name: Config353_3
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '5'
+  red:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 0f
+# add blue L1 and red U + add blue L0 and red M
+- name: Config353_4
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '3'
+  red:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 0f
+# add blue L1 and red U + add blue U and red L1
+- name: Config353_5
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 2f
+# add blue L1 and red U + add blue U and red L0
+- name: Config353_6
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '3'
+    - 0f
+# add blue L1 and red U + add blue M and red L1
+- name: Config353_7
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 2f
+# add blue L1 and red U + add blue M and red L0
+- name: Config353_8
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '3'
+    - 0f
+# add blue L0 and red U + add blue L1 and red U
+- name: Config353_9
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '3'
+  red:
+    label_M: 0n
+    label_U: '5'
+    label_L:
+    - '1'
+    - 0f
+# add blue L0 and red U + add blue L0 and red U
+- name: Config353_10
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 4f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '5'
+    label_L:
+    - '1'
+    - 0f
+# add blue L0 and red U + add blue L1 and red M
+- name: Config353_11
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '3'
+  red:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 0f
+# add blue L0 and red U + add blue L0 and red M
+- name: Config353_12
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 4f
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 0f
+# add blue L0 and red U + add blue U and red L1
+- name: Config353_13
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 2f
+# add blue L0 and red U + add blue U and red L0
+- name: Config353_14
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '3'
+    - 0f
+# add blue L0 and red U + add blue M and red L1
+- name: Config353_15
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 2f
+# add blue L0 and red U + add blue M and red L0
+- name: Config353_16
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '3'
+    - 0f
+# add blue L1 and red M + add blue L1 and red U
+- name: Config353_17
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '5'
+  red:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 0f
+# add blue L1 and red M + add blue L0 and red U
+- name: Config353_18
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '3'
+  red:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 0f
+# add blue L1 and red M + add blue L1 and red M
+- name: Config353_19
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '5'
+  red:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 0f
+# add blue L1 and red M + add blue L0 and red M
+- name: Config353_20
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '3'
+  red:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 0f
+# add blue L1 and red M + add blue U and red L1
+- name: Config353_21
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+# add blue L1 and red M + add blue U and red L0
+- name: Config353_22
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 0f
+# add blue L1 and red M + add blue M and red L1
+- name: Config353_23
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+# add blue L1 and red M + add blue M and red L0
+- name: Config353_24
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 0f
+# add blue L0 and red M + add blue L1 and red U
+- name: Config353_25
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '3'
+  red:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 0f
+# add blue L0 and red M + add blue L0 and red U
+- name: Config353_26
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 4f
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 0f
+# add blue L0 and red M + add blue L1 and red M
+- name: Config353_27
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '3'
+  red:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 0f
+# add blue L0 and red M + add blue L0 and red M
+- name: Config353_28
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - 4f
+    - '1'
+  red:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 0f
+# add blue L0 and red M + add blue U and red L1
+- name: Config353_29
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+# add blue L0 and red M + add blue U and red L0
+- name: Config353_30
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 0f
+# add blue L0 and red M + add blue M and red L1
+- name: Config353_31
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+# add blue L0 and red M + add blue M and red L0
+- name: Config353_32
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 0f
+# add blue U and red L1 + add blue L1 and red U
+- name: Config353_33
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 2f
+# add blue U and red L1 + add blue L0 and red U
+- name: Config353_34
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 2f
+# add blue U and red L1 + add blue L1 and red M
+- name: Config353_35
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+# add blue U and red L1 + add blue L0 and red M
+- name: Config353_36
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+# add blue U and red L1 + add blue U and red L1
+- name: Config353_37
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 4f
+# add blue U and red L1 + add blue U and red L0
+- name: Config353_38
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 2f
+# add blue U and red L1 + add blue M and red L1
+- name: Config353_39
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 4f
+# add blue U and red L1 + add blue M and red L0
+- name: Config353_40
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 2f
+# add blue U and red L0 + add blue L1 and red U
+- name: Config353_41
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '3'
+    - 0f
+# add blue U and red L0 + add blue L0 and red U
+- name: Config353_42
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '3'
+    - 0f
+# add blue U and red L0 + add blue L1 and red M
+- name: Config353_43
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 0f
+# add blue U and red L0 + add blue L0 and red M
+- name: Config353_44
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 0f
+# add blue U and red L0 + add blue U and red L1
+- name: Config353_45
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 2f
+# add blue U and red L0 + add blue U and red L0
+- name: Config353_46
+  num_nvd_faces: 3
+  blue:
+    label_M: 0n
+    label_U: '5'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '5'
+    - 0f
+# add blue U and red L0 + add blue M and red L1
+- name: Config353_47
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 2f
+# add blue U and red L0 + add blue M and red L0
+- name: Config353_48
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '5'
+    - 0f
+# add blue M and red L1 + add blue L1 and red U
+- name: Config353_49
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 2f
+# add blue M and red L1 + add blue L0 and red U
+- name: Config353_50
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '1'
+    - 2f
+# add blue M and red L1 + add blue L1 and red M
+- name: Config353_51
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+# add blue M and red L1 + add blue L0 and red M
+- name: Config353_52
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 2f
+# add blue M and red L1 + add blue U and red L1
+- name: Config353_53
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 4f
+# add blue M and red L1 + add blue U and red L0
+- name: Config353_54
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 2f
+# add blue M and red L1 + add blue M and red L1
+- name: Config353_55
+  num_nvd_faces: 3
+  blue:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '1'
+    - 4f
+# add blue M and red L1 + add blue M and red L0
+- name: Config353_56
+  num_nvd_faces: 3
+  blue:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 2f
+# add blue M and red L0 + add blue L1 and red U
+- name: Config353_57
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '3'
+    - 0f
+# add blue M and red L0 + add blue L0 and red U
+- name: Config353_58
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '3'
+    label_L:
+    - '3'
+    - 0f
+# add blue M and red L0 + add blue L1 and red M
+- name: Config353_59
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '3'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 0f
+# add blue M and red L0 + add blue L0 and red M
+- name: Config353_60
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - 2f
+    - '1'
+  red:
+    label_M: 2n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 0f
+# add blue M and red L0 + add blue U and red L1
+- name: Config353_61
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 2f
+# add blue M and red L0 + add blue U and red L0
+- name: Config353_62
+  num_nvd_faces: 3
+  blue:
+    label_M: 2n
+    label_U: '3'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '5'
+    - 0f
+# add blue M and red L0 + add blue M and red L1
+- name: Config353_63
+  num_nvd_faces: 3
+  blue:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '3'
+    - 2f
+# add blue M and red L0 + add blue M and red L0
+- name: Config353_64
+  num_nvd_faces: 3
+  blue:
+    label_M: 4n
+    label_U: '1'
+    label_L:
+    - 0f
+    - '1'
+  red:
+    label_M: 0n
+    label_U: '1'
+    label_L:
+    - '5'
+    - 0f

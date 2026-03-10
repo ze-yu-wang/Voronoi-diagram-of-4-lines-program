@@ -1,0 +1,105 @@
+# 2 V
+
+- name: Config244
+  num_nvd_faces: 2
+  blue:
+    label_M: "0f"
+    label_U: "0f"
+    label_L: ["1", "1"]
+  red:
+    label_M: "0n"
+    label_U: "0n"
+    label_L: ["1", "1"]
+
+- name: Config253
+  num_nvd_faces: 3
+  blue:
+    label_M: "0n"
+    label_U: "2f"
+    label_L: ["0f", "0f"]
+  red:
+    label_M: "0n"
+    label_U: "0n"
+    label_L: ["1", "1"]
+
+- name: Config324
+  num_nvd_faces: 2
+  blue:
+    label_M: "0f"
+    label_U: "1"
+    label_L: ["0f", "1"]
+  red:
+    label_M: "0n"
+    label_U: "1"
+    label_L: ["1", "0n"]
+
+
+
+
+
+
+
+
+
+
+# 0 V + 1 twist
+# add blue L0 and red L0
+- name: Config254_1
+  num_nvd_faces: 2
+  blue:
+    label_M: 0n
+    label_U: 0f
+    label_L:
+    - 2f
+    - 0f
+  red:
+    label_M: 0f
+    label_U: 0n
+    label_L:
+    - 2n
+    - 0n
+# add blue L1 and red L1
+- name: Config254_2
+  num_nvd_faces: 2
+  blue:
+    label_M: 0n
+    label_U: 0f
+    label_L:
+    - 0f
+    - 2f
+  red:
+    label_M: 0f
+    label_U: 0n
+    label_L:
+    - 0n
+    - 2n
+# add blue M and red M
+- name: Config254_3
+  num_nvd_faces: 2
+  blue:
+    label_M: 2n
+    label_U: 0f
+    label_L:
+    - 0f
+    - 0f
+  red:
+    label_M: 2f
+    label_U: 0n
+    label_L:
+    - 0n
+    - 0n
+# add blue U and red U
+- name: Config254_4
+  num_nvd_faces: 2
+  blue:
+    label_M: 0n
+    label_U: 2f
+    label_L:
+    - 0f
+    - 0f
+  red:
+    label_M: 0f
+    label_U: 2n
+    label_L:
+    - 0n
+    - 0n

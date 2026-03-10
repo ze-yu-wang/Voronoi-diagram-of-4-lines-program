@@ -1,0 +1,11 @@
+- name: Config153
+  num_nvd_faces: 1
+  blue:
+    label_M: "0n"
+    label_U: "0f"
+    label_L: ["0f", "0f"]
+  red:
+    label_M: "0n"
+    label_U: "0f"
+    label_L: ["0f", "0f"]
+

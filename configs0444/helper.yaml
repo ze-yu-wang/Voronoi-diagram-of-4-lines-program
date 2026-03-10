@@ -1,0 +1,180 @@
+- name: Config123
+  commands_list:
+    - "add blue L0 and red M"
+    - "add blue L1 and red M"
+    - "add blue M and red L0"
+    - "add blue M and red L1"
+
+- name: Config124
+  commands_list:
+    - "add blue M and red M"
+    - "add blue L0 and red L0"
+    - "add blue L1 and red L0"
+    - "add blue L1 and red L1"
+
+- name: Config233
+  commands_list:
+    - "add blue M and red U"
+    - "add blue U and red L0"
+    - "add blue U and red L1"
+    - "add blue U and red M"
+    - "add blue L0 and red U"
+    - "add blue L1 and red U"
+
+- name: Config234
+  commands_list:
+    - "add blue U and red U"
+    - "add blue M and red M"
+    - "add blue M and red L0"
+    - "add blue M and red L1"
+    - "add blue L0 and red L0"
+    - "add blue L1 and red L1"
+
+
+
+
+
+
+
+
+
+- name: Config344
+  commands_list:
+    - "add blue L1 and red L1"
+    - "add blue L0 and red L0"
+    - "add blue M and red M"
+    - "add blue U and red U"
+
+- name: Config353
+  commands_list:
+    - "add blue L1 and red U"
+    - "add blue L0 and red U"
+    - "add blue L1 and red M"
+    - "add blue L0 and red M"
+    - "add blue U and red L1"
+    - "add blue U and red L0"
+    - "add blue M and red L1"
+    - "add blue M and red L0"
+
+
+
+
+
+
+
+
+- name: Config121
+  commands_list:
+    - "add blue L1 and red M"
+    - "add blue L1 and red L1"
+    - "add blue L0 and red L1"
+    - "add blue L1 and red U"
+    - "add blue M and red U"
+    - "add blue M and red M"
+    - "add blue M and red L0"
+
+- name: Config122
+  commands_list:
+    - "add blue L1 and red L0"
+    - "add blue L1 and red M"
+    - "add blue L1 and red U"
+    - "add blue L0 and red U"
+    - "add blue L0 and red M"
+    - "add blue M and red M"
+    - "add blue M and red U"
+    - "add blue M and red L1"
+
+- name: Config162
+  commands_list:
+    - "add blue L0 and red L0"
+    - "add blue L0 and red M"
+    - "add blue L0 and red U"
+    - "add blue L1 and red M"
+    - "add blue L1 and red U"
+    - "add blue M and red L1"
+    - "add blue M and red M"
+    - "add blue M and red U"
+
+- name: Config214
+  commands_list:
+    - "add blue L0 and red L0"
+    - "add blue L1 and red L1"
+    - "add blue L0 and red M"
+    - "add blue L1 and red M"
+    - "add blue M and red M"
+    - "add blue U and red U"
+
+
+
+
+
+
+- name: Config342
+  commands_list:
+    - "add blue L0 and red L1"
+    - "add blue M and red L0"
+    - "add blue M and red M"
+    - "add blue U and red L0"
+    - "add blue U and red M"
+    - "add blue L1 and red M"
+    - "add blue L1 and red U"
+    - "add blue M and red U"
+
+
+- name: Config352
+  commands_list:
+    - "add blue L0 and red L1"
+    - "add blue M and red L0"
+    - "add blue M and red M"
+    - "add blue U and red L0"
+    - "add blue U and red M"
+    - "add blue L1 and red M"
+    - "add blue L1 and red U"
+    - "add blue M and red U"
+
+
+
+
+
+- name: Config161
+  commands_list:
+    - "add blue L1 and red U"
+    - "add blue L1 and red M"
+    - "add blue L1 and red L1"
+    - "add blue L0 and red L1"
+    - "add blue M and red U"
+    - "add blue M and red M"
+    - "add blue M and red L0"
+
+
+
+
+
+
+
+
+
+
+
+- name: Config341
+  commands_list:
+    - "add blue L1 and red U"
+    - "add blue L1 and red M"
+    - "add blue L0 and red L0"
+    - "add blue M and red U" 
+    - "add blue M and red M"
+    - "add blue M and red L1"
+    - "add blue U and red M"
+    - "add blue U and red L1"
+
+
+- name: Config343
+  commands_list:
+    - "add blue L1 and red U"
+    - "add blue L1 and red M"
+    - "add blue L0 and red M"
+    - "add blue L0 and red U"
+    - "add blue M and red L0"
+    - "add blue M and red L1"
+    - "add blue U and red L0"
+    - "add blue U and red L1"

@@ -1,0 +1,24 @@
+- name: Config341
+  num_nvd_faces: 3
+  blue:
+    label_M: "2f"
+    label_U: "1"
+    label_L: ["1", "2n"]
+  red:
+    label_M: "2f"
+    label_U: "1"
+    label_L: ["1", "2n"]
+
+- name: Config343
+  num_nvd_faces: 3
+  blue:
+    label_M: "2f"
+    label_U: "1"
+    label_L: ["1", "2n"]
+  red:
+    label_M: "2f"
+    label_U: "1"
+    label_L: ["1", "2n"]
+
+
+

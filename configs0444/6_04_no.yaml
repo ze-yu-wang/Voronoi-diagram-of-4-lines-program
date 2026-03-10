@@ -1,0 +1,10 @@
+- name: Config161
+  num_nvd_faces: 2
+  blue:
+    label_M: "2n"
+    label_U: "0f"
+    label_L: ["1", "3"]
+  red:
+    label_M: "2f"
+    label_U: "2f"
+    label_L: ["0f", "2f"]

@@ -1,0 +1,54 @@
+- name: Config142
+  num_nvd_faces: 2
+  blue:
+    label_M: "2f"
+    label_U: "0f"
+    label_L: ["1", "1"]
+  red:
+    label_M: "2f"
+    label_U: "1"
+    label_L: ["0f", "1"]
+
+- name: Config143
+  num_nvd_faces: 1
+  blue:
+    label_M: "2f"
+    label_U: "0f"
+    label_L: ["1", "1"]
+  red:
+    label_M: "2f"
+    label_U: "0f"
+    label_L: ["1", "1"]
+
+- name: Config151
+  num_nvd_faces: 2
+  blue:
+    label_M: "2n"
+    label_U: "0f"
+    label_L: ["2f", "0f"]
+  red:
+    label_M: "2f"
+    label_U: "1"
+    label_L: ["1", "0f"]
+
+- name: Config152
+  num_nvd_faces: 2
+  blue:
+    label_M: "2n"
+    label_U: "0f"
+    label_L: ["2f", "0f"]
+  red:
+    label_M: "2f"
+    label_U: "1"
+    label_L: ["0f", "1"]
+
+- name: Config314
+  num_nvd_faces: 2
+  blue:
+    label_M: "0f"
+    label_U: "1"
+    label_L: ["1", "2f"]
+  red:
+    label_M: "2f"
+    label_U: "1"
+    label_L: ["0f", "1"]
