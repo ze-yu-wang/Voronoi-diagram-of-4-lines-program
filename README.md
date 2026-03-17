@@ -1,20 +1,32 @@
-# Voronoi-diagram-of-4-lines-program
+# Search engine for the Voronoi diagram of four lines in $R^3$
 
+Code accompanying the paper:
+
+**The Voronoi Diagram of Four Lines in $\mathbb{R}^3$** 
+*Evanthia Papadopoulou, Zeyu Wang*
+
+Accepted at the **42nd International Symposium on Computational Geometry (SoCG 2026)**  
+Full version available on **[arXiv](https://arxiv.org/abs/[identifier])**
+
+
+----
+
+## Overview
 
 This file contains the program we use for the exhaustive search algorithm to find all realizable 6-tuples of configurations associated with the Voronoi diagram of four lines. 
 
-## File explanation
+### File explanation
 
-- `simple_configurations.pdf` contains all simple configurations (with no twists), excluding those that violate Corollary 18. See Appendix A.4 for details. 
+- `simple_configurations.pdf` contains all simple configurations (configurations with no twists).
 - `trimodel.py` is a module containing all data structures and functions that are used in the search. In particular, it models trisector branches, trisectors, bisector configurations in their own classes and provide the main search function `get_valid_comb()` to obtain valid (those that survive all filters) configuration tuples. 
 
-## How to run the program? 
+### How to run the program? 
 
-We break the search into different cases to reduce the search space. We distinguish by the number Voronoi vertices and the number of induced vertices of each trisector in $\Gamma(FVD(L))$ (see Lemma 17 and Corollary 18). For each subcase, go to the respective folder and run the notebook by loading the configuration data and then run `get_valid_comb`. 
+We break the search into different cases to reduce the search space. We distinguish by the number Voronoi vertices and the number of induced vertices of each trisector in $\Gamma(NVD(L))$. For each subcase, go to the respective folder and run the notebook by loading the configuration data and then run `get_valid_comb`. 
 
-## How to recover a configuration from its name? 
+### How to recover a configuration from its name? 
 
-For the input configurations, see the folders `configsxxxx`. Each file starts with the form `k_ab`, where $k$ is the number of Voronoi vertices and the bisector configuration is an $(a,b)$-bisector, see the definition before Corollary 18.  
+For the input configurations, see the folders `configsxxxx`. Each file starts with the form `k_ab`, where $k$ is the number of Voronoi vertices and the bisector configuration is an $(a,b)$-bisector.
 
 Those files that end with `_no.yaml` are simple configurations (with no twists), those without any flags are all configurations, and those that end with `_short.yaml` contain all configurations without repetition (obtained from the previous list by merging repetitions). 
 
