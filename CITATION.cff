@@ -3,10 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: Wang
     given-names: Zeyu
-    orcid: 
-title: "title"
+    orcid: "https://orcid.org/0009-0004-4207-198X"
+title: "Search engine for the voronoi diagram of four lines in R^3"
 version: 1.0.0
-identifiers:
-  - type: doi
-    value: 
 date-released: 2026-03-10

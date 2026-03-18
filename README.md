@@ -2,7 +2,8 @@
 
 Code accompanying the paper:
 
-**The Voronoi Diagram of Four Lines in $\mathbb{R}^3$** 
+**The Voronoi Diagram of Four Lines in $\mathbb{R}^3$**
+ 
 *Evanthia Papadopoulou, Zeyu Wang*
 
 Accepted at the **42nd International Symposium on Computational Geometry (SoCG 2026)**  
