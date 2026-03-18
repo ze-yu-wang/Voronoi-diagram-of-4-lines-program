@@ -5,5 +5,5 @@ authors:
     given-names: Zeyu
     orcid: "https://orcid.org/0009-0004-4207-198X"
 title: "Search engine for the voronoi diagram of four lines in R^3"
-version: 1.0.0
-date-released: 2026-03-10
+version: 1.0.1
+date-released: 2026-03-18

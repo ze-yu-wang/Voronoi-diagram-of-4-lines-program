@@ -9,6 +9,9 @@ Code accompanying the paper:
 Accepted at the **42nd International Symposium on Computational Geometry (SoCG 2026)**  
 Full version available on **[arXiv](https://arxiv.org/abs/[identifier])**
 
+Persistent archive and DOI for this software release on Zenodo. [![DOI](https://zenodo.org/badge/1177714678.svg)](https://doi.org/10.5281/zenodo.19090547)
+
+
 
 ----
 
