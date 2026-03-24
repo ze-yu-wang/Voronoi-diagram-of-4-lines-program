@@ -6,9 +6,8 @@ Code accompanying the paper:
  
 *Evanthia Papadopoulou, Zeyu Wang*
 
-Accepted at the **42nd International Symposium on Computational Geometry (SoCG 2026)**  
-Full version available on **[arXiv](https://arxiv.org/abs/[identifier])**
-
+Accepted at the **42nd International Symposium on Computational Geometry (SoCG 2026)** [![SoCG 2026](https://img.shields.io/badge/SoCG-2026-blue.svg)](https://cgweek26.computational-geometry.org/)
+Full version available on arXiv. [![arXiv](https://img.shields.io/badge/arXiv-2603.19836-b31b1b.svg)](https://arxiv.org/abs/2603.19836)  
 Persistent archive and DOI for this software release on Zenodo. [![DOI](https://zenodo.org/badge/1177714678.svg)](https://doi.org/10.5281/zenodo.19090547)
 
 
